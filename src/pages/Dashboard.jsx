@@ -13,19 +13,19 @@ export default function Dashboard(){
                 <h2 className="font-semibold mt-10 mb-3">Temukan promo menarik</h2>
                 <div className="flex gap-10 carousel rounded-box">
                     <div className="w-[200px] carousel-item">
-                        <img src="/public/image/Banner 1.png" alt="" />
+                        <img src="/image/Banner 1.png" alt="" />
                     </div>
                     <div className="w-[200px] carousel-item">
-                        <img src="/public/image/Banner 2.png" alt="" />
+                        <img src="/image/Banner 2.png" alt="" />
                     </div>
                     <div className="w-[200px] carousel-item">
-                        <img src="/public/image/Banner 3.png" alt="" />
+                        <img src="/image/Banner 3.png" alt="" />
                     </div>
                     <div className="w-[200px] carousel-item">
-                        <img src="/public/image/Banner 4.png" alt="" />
+                        <img src="/image/Banner 4.png" alt="" />
                     </div>
                     <div className="w-[200px] carousel-item">
-                        <img src="/public/image/Banner 5.png" alt="" />
+                        <img src="/image/Banner 5.png" alt="" />
                     </div>
                 </div>
 
